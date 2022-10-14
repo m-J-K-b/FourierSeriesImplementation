@@ -4,8 +4,7 @@ A programm that enables you to play around with the Fourier Series Algorithm
 
 To get the program up and running you can follow the steps below:
 
-1. Clone this repository to your local machine through running "git clone https://github.com/m-J-K-b/FourierSeriesImplementation.git" (You can get the URL through      viewing the main branch of this repo and clicking on the dropdown option called "code" in top right. There you can select how you want to clone the repository.) and executing the involved steps.
-1. Download the Zip of this repo (can also be found under the code dropdown).
+1. Clone this repository to your local machine through running "git clone https://github.com/m-J-K-b/FourierSeriesImplementation.git" (You can get the URL through      viewing the main branch of this repo and clicking on the dropdown option called "code" in top right. There you can select how you want to clone the repository.) and executing the involved steps or download the Zip of the repo.
 2. Next navigate into the folder the repository was cloned into and setup a virtual environment (for example: run "python -m venv {venv name}" for windows)
 3. Install the requirements: "pip install -r requirements.txt"
 4. Run the main.py file
